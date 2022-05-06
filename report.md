@@ -16,3 +16,11 @@
 ### Evan
 9. Thinks the site would benefit from UI changes.
 10. Include other payment options/methods.
+
+### Darsh, Joseph
+11. There was confusion after He added an item to cart as he was not able to find the cart option on the navigation bar.
+12. Have a conformation page after clicking on checkout.
+13. Have a better color palette for a cleaner design. (Implemented)
+14. Centering and readjusting the menu bar; feels like hanging on the edge.
+15. A defined way to show customer how to use description page and add an indicator showing there is a scroll menu within the description page. (Implemented)
+16. Use Universal online shopping billing and shipping information format.
