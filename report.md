@@ -12,3 +12,7 @@
 6. Change "Zip Code" field to "Zip Code(Postal Code)" as some countries don't use the "Zip Code" term.
 7. Change font design for title and description to uniquely identify description link and Topic word. (Done)
 8. Make website responsive for larger viewports e.g. Desktops.
+
+### Evan
+9. Thinks the site would benefit from UI changes.
+10. Include other payment options/methods.
